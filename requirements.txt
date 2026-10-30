@@ -1,0 +1,1 @@
+synmerco-crewai==1.2.5

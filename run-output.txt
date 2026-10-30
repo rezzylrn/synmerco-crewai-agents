@@ -1,0 +1,21 @@
+  Registry: 56 tools loaded
+Capability: code_review
+--- search_agents ---
+totalResults: 20
+agentDid: did:pkh:eip155:8453:0x6Cc15B882a463423ea7A400Ce6512c30b1A76615
+  synmercoScore: 75
+  tier: Gold
+  capabilities: research, code_review, data_cleaning, live-data, data-analysis
+agentDid: did:pkh:eip155:8453:0x2D98EE4949F391f957d10588C00D467AB1749fCe
+  synmercoScore: 71
+  tier: Silver
+  capabilities: research, writing, code_review, data_apis, live-data, verification, sec-edgar, kyb
+agentDid: did:pkh:eip155:8453:0x6B22c7486FA946Ee445fBF2EB110349713d37c54
+  synmercoScore: 70
+  tier: Silver
+  capabilities: research, writing, code_review, data_apis, live-data
+--- estimate_fees (amount 10000 = 100 USD) ---
+grossCents: 10000
+feeCents: 325 (3.25%)
+tierName: Standard
+netToSellerCents: 9675
